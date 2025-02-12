@@ -1,6 +1,6 @@
 -- Ejercicios de sql
 
--- Ejercio 1
+-- Ejercicio 1
 select * from city where population > 12000 and countrycode = 'USA';
 
 -- Ejercicio 2

@@ -9,3 +9,7 @@ Está orientado en la realización de consultas que permiten la interacción con
 
 ## Objetivo del Repositorio
 Albergar una serie de practicas y ejemplos orientadas al manejo de SQL con PostgreSQL y MySQL
+
+### Contenido:
+1. [Como crear una DB y una tabla](#)
+
